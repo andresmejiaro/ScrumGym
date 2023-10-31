@@ -1,0 +1,2619 @@
+/*
+	@name homepage
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 3684px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__homepage {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 3684px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_2 {
+	top: 529px;
+	left: 0px;
+	width: 1440px;
+	height: 663px;
+}
+
+#frame_1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 38px;
+}
+
+#_bg__frame_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 38px;
+	background:rgba(8,212,110,1);
+}
+
+
+#registrate_ahora_y_obt_n_20__de_descuento_en_tu_primer_mes__registrate {
+	top: 9px;
+	left: 544px;
+	width: 493.4px;
+	height: 23.4px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 14px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#frame {
+	top: 9px;
+	left: 1320px;
+	width: 20px;
+	height: 20px;
+}
+
+#_bg__frame_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 20px;
+	height: 20px;
+	background:#;
+}
+
+
+#vector {
+	top: 3.43px;
+	left: 3.44px;
+	width: 13.13px;
+	height: 13.13px;
+}
+
+#frame_14 {
+	top: 65px;
+	left: 1049.5px;
+	width: 170px;
+	height: 49px;
+}
+
+#_bg__frame_14_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 170px;
+	height: 49px;
+	-ms-border-radius: 62px;
+	-o-border-radius: 62px;
+	-moz-border-radius: 62px;
+	-webkit-border-radius: 62px;
+	border-radius: 62px;
+	background:rgba(7,112,218,1);
+}
+
+
+#registrate {
+	top: 11px;
+	left: 26px;
+	width: 135px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#EFEFEF;
+}
+
+#frame_6 {
+	top: 62px;
+	left: -115px;
+	width: 1240px;
+	height: 55px;
+}
+
+#_bg__frame_6_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1240px;
+	height: 55px;
+	background:#;
+}
+
+
+#gymlogo2_png_1 {
+	top: 0px;
+	left: 281.5px;
+	width: 133px;
+	height: 55px;
+}
+
+#frame_2 {
+	top: 14px;
+	left: 640.5px;
+	width: 318px;
+	height: 27px;
+}
+
+#_bg__frame_2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 318px;
+	height: 27px;
+	background:#;
+}
+
+#frame_126 {
+	top: 0px;
+	left: 0px;
+	width: 100px;
+	height: 27px;
+}
+
+#_bg__frame_126_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 100px;
+	height: 27px;
+	background:#;
+}
+
+
+#clases {
+	top: 0px;
+	left: 22px;
+	width: 77px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 20px;
+	text-align: left;
+	color:#262626;
+}
+
+#frame_ek2 {
+	top: 5.5px;
+	left: 84px;
+	width: 16px;
+	height: 16px;
+}
+
+#_bg__frame_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 16px;
+	height: 16px;
+	background:#;
+}
+
+
+#vector_ek1 {
+	top: 5.5px;
+	left: 1.5px;
+	width: 11.5px;
+	height: 6.5px;
+}
+
+
+#tarifas {
+	top: 0px;
+	left: 124px;
+	width: 79px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 20px;
+	text-align: left;
+	color:#262626;
+}
+
+
+#instalaciones {
+	top: 0px;
+	left: 210px;
+	width: 141px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 20px;
+	text-align: left;
+	color:#262626;
+}
+
+
+#contacto {
+	top: 0px;
+	left: 358px;
+	width: 102px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 20px;
+	text-align: left;
+	color:#262626;
+}
+
+
+#m_s_que_un_gimnasio__una_vida_en_forma_ {
+	top: 257px;
+	left: 115px;
+	width: 620.4px;
+	height: 193.4px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 64px;
+	font-weight: bold;
+	line-height: 188.4px;
+	text-align: left;
+	-ms-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-o-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-webkit-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	-moz-text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	text-shadow:1px 5px 4px rgba(0,0,0,0.25);
+	color:#EFEFEF;
+}
+
+
+#m_s_de_2_100_m2_a_tu_disposici_n_con_actividades_y_servicios_como_musculaci_n_guiada_y_libre__cardio_conectado__cycle_park__clases_colectivas_con_coach_o_virtuales_ {
+	top: 480px;
+	left: 115px;
+	width: 559.6px;
+	height: 59.6px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 16px;
+	text-align: left;
+	line-height: 22px;
+	color:#CBE0F3;
+}
+
+#frame_57 {
+	top: 593px;
+	left: 87px;
+	width: 354px;
+	height: 74px;
+}
+
+#_bg__frame_57_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 354px;
+	height: 74px;
+	background:#;
+}
+
+
+#line_9 {
+	top: -1px;
+	left: 36px;
+	width: 74px;
+	height: 74px;
+}
+
+#frame_54 {
+	top: 0px;
+	left: 32px;
+	width: 92px;
+	height: 74px;
+}
+
+#_bg__frame_54_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 92px;
+	height: 74px;
+	background:#;
+}
+
+
+#_200_ {
+	top: 0px;
+	left: 0px;
+	width: 121px;
+	height: 66px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 40px;
+	font-weight: bold;
+	line-height: 61px;
+	text-align: left;
+	color:#08D46E;
+}
+
+
+#m_quinas {
+	top: 52px;
+	left: 0px;
+	width: 88.6px;
+	height: 26.6px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 16px;
+	text-align: left;
+	line-height: 22px;
+	color:#08D46E;
+}
+
+
+#line_10 {
+	top: -1px;
+	left: 118px;
+	width: 74px;
+	height: 74px;
+}
+
+#frame_56 {
+	top: 0px;
+	left: 188px;
+	width: 166px;
+	height: 74px;
+}
+
+#_bg__frame_56_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 166px;
+	height: 74px;
+	background:#;
+}
+
+
+#_3000_ {
+	top: 0px;
+	left: 0px;
+	width: 144px;
+	height: 66px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 40px;
+	font-weight: bold;
+	line-height: 61px;
+	text-align: left;
+	color:#08D46E;
+}
+
+
+#miembros_registrados {
+	top: 52px;
+	left: 0px;
+	width: 180.6px;
+	height: 26.6px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 16px;
+	text-align: left;
+	line-height: 22px;
+	color:#08D46E;
+}
+
+
+#go_for_it {
+	top: 814px;
+	left: 45px;
+	width: 610.8px;
+	height: 48.8px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 48px;
+	font-weight: bold;
+	line-height: 43.8px;
+	text-align: left;
+	line-height: 64px;
+	color:#08D46E;
+}
+
+
+#go_for_it_ek1 {
+	top: 814px;
+	left: 647px;
+	width: 610.8px;
+	height: 48.8px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 48px;
+	font-weight: bold;
+	line-height: 43.8px;
+	text-align: left;
+	line-height: 64px;
+	color:#08D46E;
+}
+
+
+#go_for_it_ek2 {
+	top: 814px;
+	left: 953px;
+	width: 610.8px;
+	height: 48.8px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 48px;
+	font-weight: bold;
+	line-height: 43.8px;
+	text-align: left;
+	line-height: 64px;
+	color:#08D46E;
+}
+
+
+#go_for_it_ek3 {
+	top: 814px;
+	left: 1256px;
+	width: 610.8px;
+	height: 48.8px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 48px;
+	font-weight: bold;
+	line-height: 43.8px;
+	text-align: left;
+	line-height: 64px;
+	color:#08D46E;
+}
+
+
+#por_qu__fitly_es_el_gimnasio_para_ti {
+	top: 2674px;
+	left: 100px;
+	width: 984.8px;
+	height: 79.8px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 48px;
+	font-weight: bold;
+	line-height: 74.8px;
+	text-align: left;
+	color:#000000;
+}
+
+#frame_29 {
+	top: 1575px;
+	left: 610px;
+	width: 218px;
+	height: 52px;
+}
+
+#_bg__frame_29_ek1 {
+	top: -1px;
+	left: -1px;
+	width: 218px;
+	height: 52px;
+	-ms-border-radius: 62px;
+	-o-border-radius: 62px;
+	-moz-border-radius: 62px;
+	-webkit-border-radius: 62px;
+	border-radius: 62px;
+	border: 1px solid #08d46e;
+	background:#;
+}
+
+
+#ver_mas {
+	top: 12.5px;
+	left: 70px;
+	width: 95px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 20px;
+	text-align: left;
+	color:#08D46E;
+}
+
+
+#line_4 {
+	top: 1663px;
+	left: 99px;
+	width: 1240px;
+	height: 1px;
+}
+
+
+#line_5 {
+	top: 1021px;
+	left: 74px;
+	width: 1240px;
+	height: 1px;
+}
+
+#frame_60 {
+	top: 1738px;
+	left: -1px;
+	width: 1441px;
+	height: 862px;
+}
+
+#_bg__frame_60_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1441px;
+	height: 862px;
+	-ms-border-radius: 40px;
+	-o-border-radius: 40px;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	border-radius: 40px;
+	background:rgba(239.7,239.7,239.7,1);
+}
+
+
+#gimnasio_de__ltima_generaci_n {
+	top: 68px;
+	left: 319px;
+	width: 797px;
+	height: 79.8px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 48px;
+	font-weight: bold;
+	line-height: 74.8px;
+	text-align: center;
+	color:#262626;
+}
+
+#frame_61 {
+	top: 185px;
+	left: 170px;
+	width: 407px;
+	height: 289px;
+}
+
+#_bg__frame_61_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 407px;
+	height: 289px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(255,255,255,1);
+}
+
+
+#image_11 {
+	top: 0px;
+	left: 123px;
+	width: 407px;
+	height: 289px;
+}
+
+#frame_63 {
+	top: 494px;
+	left: 874px;
+	width: 407px;
+	height: 289px;
+}
+
+#_bg__frame_63_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 407px;
+	height: 289px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(255,255,255,1);
+}
+
+
+#image_14 {
+	top: 0px;
+	left: 0px;
+	width: 407px;
+	height: 289px;
+}
+
+#frame_62 {
+	top: 185px;
+	left: 597px;
+	width: 684px;
+	height: 289px;
+}
+
+#_bg__frame_62_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 684px;
+	height: 289px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(255,255,255,1);
+}
+
+
+#image_13 {
+	top: 0px;
+	left: 0px;
+	width: 684px;
+	height: 289px;
+}
+
+#frame_64 {
+	top: 494px;
+	left: 170px;
+	width: 684px;
+	height: 289px;
+}
+
+#_bg__frame_64_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 684px;
+	height: 289px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(255,255,255,1);
+}
+
+
+#image_12 {
+	top: 0px;
+	left: 0px;
+	width: 684px;
+	height: 289px;
+}
+
+
+#fitly_tu_lugar_de_transformaci_n {
+	top: 940px;
+	left: 67px;
+	width: 775px;
+	height: 79.8px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 48px;
+	font-weight: bold;
+	line-height: 74.8px;
+	text-align: center;
+	color:#262626;
+}
+
+#frame_22 {
+	top: 2775px;
+	left: 100px;
+	width: 400px;
+	height: 240px;
+}
+
+#_bg__frame_22_ek1 {
+	top: -1px;
+	left: -1px;
+	width: 400px;
+	height: 240px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #000000;
+	background:#;
+}
+
+#frame_30 {
+	top: 28px;
+	left: 32px;
+	width: 336px;
+	height: 183.58px;
+}
+
+#_bg__frame_30_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 183.58px;
+	background:#;
+}
+
+#frame_29_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 183.58px;
+}
+
+#_bg__frame_29_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 183.58px;
+	background:#;
+}
+
+#frame_10 {
+	top: 0px;
+	left: 0px;
+	width: 138.84px;
+	height: 22.58px;
+}
+
+#_bg__frame_10_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 138.84px;
+	height: 22.58px;
+	background:#;
+}
+
+
+#star_1 {
+	top: 0px;
+	left: 0px;
+	width: 21.47px;
+	height: 20.42px;
+}
+
+
+#star_2 {
+	top: 0px;
+	left: 29.07px;
+	width: 21.47px;
+	height: 20.42px;
+}
+
+
+#star_3 {
+	top: 0px;
+	left: 58.13px;
+	width: 21.47px;
+	height: 20.42px;
+}
+
+
+#star_4 {
+	top: 0px;
+	left: 87.2px;
+	width: 21.47px;
+	height: 20.42px;
+}
+
+
+#star_5 {
+	top: 0px;
+	left: 116.26px;
+	width: 21.47px;
+	height: 20.42px;
+}
+
+#frame_28 {
+	top: 37.58px;
+	left: 0px;
+	width: 336px;
+	height: 146px;
+}
+
+#_bg__frame_28_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 146px;
+	background:#;
+}
+
+#frame_31 {
+	top: 0px;
+	left: 0px;
+	width: 115px;
+	height: 24px;
+}
+
+#_bg__frame_31_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 115px;
+	height: 24px;
+	background:#;
+}
+
+
+#sarah_m_ {
+	top: 5px;
+	left: 0px;
+	width: 104px;
+	height: 20px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_ek4 {
+	top: 0px;
+	left: 91px;
+	width: 24px;
+	height: 24px;
+}
+
+#_bg__frame_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+	background:#;
+}
+
+
+#vector_ek2 {
+	top: 2.25px;
+	left: 2.25px;
+	width: 19.5px;
+	height: 19.5px;
+}
+
+
+#__la_limpieza_es_una_prioridad__el_gimnasio_est__impecablemente_limpio__y_se_nota_que_se_toman_muy_en_serio_la_sanitizaci_n_y_la_higiene__lo_que_es_especialmente_importante_en_el_mundo_actual__ {
+	top: 36px;
+	left: 0px;
+	width: 350.6px;
+	height: 114.6px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 16px;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_63_ek2 {
+	top: 2775px;
+	left: -320px;
+	width: 400px;
+	height: 240px;
+}
+
+#_bg__frame_63_ek3 {
+	top: -1px;
+	left: -1px;
+	width: 400px;
+	height: 240px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #000000;
+	background:#;
+}
+
+#frame_30_ek2 {
+	top: 28px;
+	left: 32px;
+	width: 336px;
+	height: 161.58px;
+}
+
+#_bg__frame_30_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 161.58px;
+	background:#;
+}
+
+#frame_29_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 161.58px;
+}
+
+#_bg__frame_29_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 161.58px;
+	background:#;
+}
+
+#frame_10_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 138.84px;
+	height: 22.58px;
+}
+
+#_bg__frame_10_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 138.84px;
+	height: 22.58px;
+	background:#;
+}
+
+
+#star_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 22.58px;
+	height: 22.58px;
+}
+
+
+#star_2_ek1 {
+	top: 0px;
+	left: 29.07px;
+	width: 22.58px;
+	height: 22.58px;
+}
+
+
+#star_3_ek1 {
+	top: 0px;
+	left: 58.13px;
+	width: 22.58px;
+	height: 22.58px;
+}
+
+
+#star_4_ek1 {
+	top: 0px;
+	left: 87.2px;
+	width: 22.58px;
+	height: 22.58px;
+}
+
+
+#star_5_ek1 {
+	top: 0px;
+	left: 116.26px;
+	width: 22.58px;
+	height: 22.58px;
+}
+
+#frame_28_ek2 {
+	top: 37.58px;
+	left: 0px;
+	width: 336px;
+	height: 124px;
+}
+
+#_bg__frame_28_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 124px;
+	background:#;
+}
+
+#frame_31_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 115px;
+	height: 24px;
+}
+
+#_bg__frame_31_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 115px;
+	height: 24px;
+	background:#;
+}
+
+
+#sarah_m__ek1 {
+	top: 5px;
+	left: 0px;
+	width: 104px;
+	height: 20px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_ek6 {
+	top: 0px;
+	left: 91px;
+	width: 24px;
+	height: 24px;
+}
+
+#_bg__frame_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+	background:#;
+}
+
+
+#vector_ek3 {
+	top: 2.25px;
+	left: 2.25px;
+	width: 19.5px;
+	height: 19.5px;
+}
+
+
+#__i_m_blown_away_by_the_quality_and_style_of_the_clothes_i_received_from_shop_co__from_casual_wear_to_elegant_dresses__every_piece_i_ve_bought_has_exceeded_my_expectations__ {
+	top: 36px;
+	left: 0px;
+	width: 350.6px;
+	height: 92.6px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 16px;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_61_ek2 {
+	top: 2775px;
+	left: 520px;
+	width: 400px;
+	height: 239.58px;
+}
+
+#_bg__frame_61_ek3 {
+	top: -1px;
+	left: -1px;
+	width: 400px;
+	height: 239.58px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #000000;
+	background:#;
+}
+
+#frame_30_ek4 {
+	top: 28px;
+	left: 32px;
+	width: 336px;
+	height: 183.58px;
+}
+
+#_bg__frame_30_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 183.58px;
+	background:#;
+}
+
+#frame_29_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 183.58px;
+}
+
+#_bg__frame_29_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 183.58px;
+	background:#;
+}
+
+#frame_10_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 138.84px;
+	height: 22.58px;
+}
+
+#_bg__frame_10_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 138.84px;
+	height: 22.58px;
+	background:#;
+}
+
+
+#star_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 21.47px;
+	height: 20.42px;
+}
+
+
+#star_2_ek2 {
+	top: 0px;
+	left: 29.07px;
+	width: 21.47px;
+	height: 20.42px;
+}
+
+
+#star_3_ek2 {
+	top: 0px;
+	left: 58.13px;
+	width: 21.47px;
+	height: 20.42px;
+}
+
+
+#star_4_ek2 {
+	top: 0px;
+	left: 87.2px;
+	width: 21.47px;
+	height: 20.42px;
+}
+
+
+#star_5_ek2 {
+	top: 0px;
+	left: 116.26px;
+	width: 21.47px;
+	height: 20.42px;
+}
+
+#frame_28_ek4 {
+	top: 37.58px;
+	left: 0px;
+	width: 336px;
+	height: 146px;
+}
+
+#_bg__frame_28_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 146px;
+	background:#;
+}
+
+#frame_31_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 96px;
+	height: 24px;
+}
+
+#_bg__frame_31_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 96px;
+	height: 24px;
+	background:#;
+}
+
+
+#alex_k_ {
+	top: 5px;
+	left: 0px;
+	width: 85px;
+	height: 20px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_ek8 {
+	top: 0px;
+	left: 72px;
+	width: 24px;
+	height: 24px;
+}
+
+#_bg__frame_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+	background:#;
+}
+
+
+#vector_ek4 {
+	top: 2.25px;
+	left: 2.25px;
+	width: 19.5px;
+	height: 19.5px;
+}
+
+
+#__si_te_tomas_en_serio_alcanzar_tus_metas_de_fitness__fitly_es_el_lugar_ideal__ofrecen_programas_de_entrenamiento_personalizados_y_orientaci_n_para_ayudarte_a_alcanzar_tus_objetivos__ {
+	top: 36px;
+	left: 0px;
+	width: 350.6px;
+	height: 114.6px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 16px;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_62_ek2 {
+	top: 2775px;
+	left: 940px;
+	width: 400px;
+	height: 239.58px;
+}
+
+#_bg__frame_62_ek3 {
+	top: -1px;
+	left: -1px;
+	width: 400px;
+	height: 239.58px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #000000;
+	background:#;
+}
+
+#frame_30_ek6 {
+	top: 28px;
+	left: 32px;
+	width: 336px;
+	height: 183.58px;
+}
+
+#_bg__frame_30_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 183.58px;
+	background:#;
+}
+
+#frame_29_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 183.58px;
+}
+
+#_bg__frame_29_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 183.58px;
+	background:#;
+}
+
+#frame_10_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 138.84px;
+	height: 22.58px;
+}
+
+#_bg__frame_10_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 138.84px;
+	height: 22.58px;
+	background:#;
+}
+
+
+#star_1_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 21.47px;
+	height: 20.42px;
+}
+
+
+#star_2_ek3 {
+	top: 0px;
+	left: 29.07px;
+	width: 21.47px;
+	height: 20.42px;
+}
+
+
+#star_3_ek3 {
+	top: 0px;
+	left: 58.13px;
+	width: 21.47px;
+	height: 20.42px;
+}
+
+
+#star_4_ek3 {
+	top: 0px;
+	left: 87.2px;
+	width: 21.47px;
+	height: 20.42px;
+}
+
+
+#star_5_ek3 {
+	top: 0px;
+	left: 116.26px;
+	width: 21.47px;
+	height: 20.42px;
+}
+
+#frame_28_ek6 {
+	top: 37.58px;
+	left: 0px;
+	width: 336px;
+	height: 146px;
+}
+
+#_bg__frame_28_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 146px;
+	background:#;
+}
+
+#frame_31_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 111px;
+	height: 24px;
+}
+
+#_bg__frame_31_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 111px;
+	height: 24px;
+	background:#;
+}
+
+
+#james_l_ {
+	top: 5px;
+	left: 0px;
+	width: 100px;
+	height: 20px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_ek10 {
+	top: 0px;
+	left: 87px;
+	width: 24px;
+	height: 24px;
+}
+
+#_bg__frame_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+	background:#;
+}
+
+
+#vector_ek5 {
+	top: 2.25px;
+	left: 2.25px;
+	width: 19.5px;
+	height: 19.5px;
+}
+
+
+#__fitly_siempre_est__buscando_formas_de_mejorar_y_mejorar_la_experiencia_de_sus_miembros__actualizan_regularmente_su_equipo_e_introducen_nuevas_clases_para_mantener_las_cosas_frescas_y_emocionantes__ {
+	top: 36px;
+	left: 0px;
+	width: 350.6px;
+	height: 114.6px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 16px;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_64_ek2 {
+	top: 2775px;
+	left: 1360px;
+	width: 400px;
+	height: 239.58px;
+}
+
+#_bg__frame_64_ek3 {
+	top: -1px;
+	left: -1px;
+	width: 400px;
+	height: 239.58px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #000000;
+	background:#;
+}
+
+#frame_30_ek8 {
+	top: 28px;
+	left: 32px;
+	width: 336px;
+	height: 183.58px;
+}
+
+#_bg__frame_30_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 183.58px;
+	background:#;
+}
+
+#frame_29_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 183.58px;
+}
+
+#_bg__frame_29_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 183.58px;
+	background:#;
+}
+
+#frame_10_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 138.84px;
+	height: 22.58px;
+}
+
+#_bg__frame_10_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 138.84px;
+	height: 22.58px;
+	background:#;
+}
+
+
+#star_1_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 21.47px;
+	height: 20.42px;
+}
+
+
+#star_2_ek4 {
+	top: 0px;
+	left: 29.07px;
+	width: 18.38px;
+	height: 20.42px;
+}
+
+
+#star_3_ek4 {
+	top: 0px;
+	left: 58.13px;
+	width: 22.58px;
+	height: 22.58px;
+}
+
+
+#star_4_ek4 {
+	top: 0px;
+	left: 87.2px;
+	width: 22.58px;
+	height: 22.58px;
+}
+
+
+#star_5_ek4 {
+	top: 0px;
+	left: 116.26px;
+	width: 22.58px;
+	height: 22.58px;
+}
+
+#frame_28_ek8 {
+	top: 37.58px;
+	left: 0px;
+	width: 336px;
+	height: 146px;
+}
+
+#_bg__frame_28_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 146px;
+	background:#;
+}
+
+#frame_31_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 97px;
+	height: 24px;
+}
+
+#_bg__frame_31_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 97px;
+	height: 24px;
+	background:#;
+}
+
+
+#mooen {
+	top: 5px;
+	left: 0px;
+	width: 86px;
+	height: 20px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#frame_ek12 {
+	top: 0px;
+	left: 73px;
+	width: 24px;
+	height: 24px;
+}
+
+#_bg__frame_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+	background:#;
+}
+
+
+#vector_ek6 {
+	top: 2.25px;
+	left: 2.25px;
+	width: 19.5px;
+	height: 19.5px;
+}
+
+
+#__as_someone_who_s_always_on_the_lookout_for_unique_fashion_pieces__i_m_thrilled_to_have_stumbled_upon_shop_co__the_selection_of_clothes_is_not_only_diverse_but_also_on_point_with_the_latest_trends__ {
+	top: 36px;
+	left: 0px;
+	width: 350.6px;
+	height: 114.6px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 16px;
+	text-align: left;
+	line-height: 22px;
+	color:#000000;
+}
+
+#arrow_down_bold_1 {
+	top: 2711px;
+	left: 1316px;
+	width: 24px;
+	height: 24px;
+	transform:rotate(-90deg);
+}
+
+#_bg__arrow_down_bold_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+	
+	-ms-transform:rotate(-90deg);
+	-o-transform:rotate(-90deg);
+	-webkit-transform:rotate(-90deg);
+	-moz-transform:rotate(-90deg);
+	transform:rotate(-90deg);
+	background:#;
+}
+
+
+#vector_ek7 {
+	top: 2715.12px;
+	left: 4.12px;
+	width: 18.75px;
+	height: 15.76px;
+}
+
+#arrow_down_bold_2 {
+	top: 2711px;
+	left: 1300px;
+	width: 24px;
+	height: 24px;
+	transform:rotate(-90deg);
+}
+
+#_bg__arrow_down_bold_2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+	
+	-ms-transform:rotate(-90deg);
+	-o-transform:rotate(-90deg);
+	-webkit-transform:rotate(-90deg);
+	-moz-transform:rotate(-90deg);
+	transform:rotate(-90deg);
+	background:#;
+}
+
+
+#vector_ek8 {
+	top: 2715.12px;
+	left: 1278.62px;
+	width: 18.75px;
+	height: 15.76px;
+}
+
+#group_5 {
+	top: 3095px;
+	left: -1px;
+	width: 1441px;
+	height: 589px;
+}
+
+#_bg__group_5_ek1 {
+	top: -3095px;
+	left: 1px;
+	width: 1441px;
+	height: 589px;
+	background:#;
+}
+
+#group_4 {
+	top: 0px;
+	left: 0px;
+	width: 1441px;
+	height: 589px;
+}
+
+#_bg__group_4_ek1 {
+	top: -3095px;
+	left: 1px;
+	width: 1441px;
+	height: 589px;
+	background:#;
+}
+
+
+#rectangle_1 {
+	top: 90px;
+	left: 0px;
+	width: 1441px;
+	height: 499px;
+	background:rgba(239.7,239.7,239.7,1);
+}
+
+
+#line_8 {
+	top: 456px;
+	left: 100px;
+	width: 1240px;
+	height: 1px;
+}
+
+#frame_45 {
+	top: 0px;
+	left: 101px;
+	width: 1240px;
+	height: 180px;
+}
+
+#_bg__frame_45_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1240px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(0,93,119,1);
+}
+
+
+#escoge_el_plan_que_mas_se_adapte_a_ti {
+	top: 43px;
+	left: 64px;
+	width: 580px;
+	height: 106px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 45px;
+	color:#FFFFFF;
+}
+
+#frame_46 {
+	top: 36px;
+	left: 827px;
+	width: 349px;
+	height: 108px;
+}
+
+#_bg__frame_46_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 349px;
+	height: 108px;
+	background:#;
+}
+
+#frame_3 {
+	top: 0px;
+	left: 0px;
+	width: 349px;
+	height: 48px;
+}
+
+#_bg__frame_3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 349px;
+	height: 48px;
+	-ms-border-radius: 62px;
+	-o-border-radius: 62px;
+	-moz-border-radius: 62px;
+	-webkit-border-radius: 62px;
+	border-radius: 62px;
+	background:rgba(255,255,255,1);
+}
+
+#frame_ek14 {
+	top: 12px;
+	left: 16px;
+	width: 24px;
+	height: 24px;
+}
+
+#_bg__frame_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+	background:#;
+}
+
+
+#vector_ek9 {
+	top: 4.13px;
+	left: 1.88px;
+	width: 20.25px;
+	height: 15.75px;
+}
+
+
+#introduce_tu_email {
+	top: 12px;
+	left: 52px;
+	width: 153.6px;
+	height: 26.6px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+#frame_4 {
+	top: 62px;
+	left: 0px;
+	width: 349px;
+	height: 46px;
+}
+
+#_bg__frame_4_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 349px;
+	height: 46px;
+	-ms-border-radius: 62px;
+	-o-border-radius: 62px;
+	-moz-border-radius: 62px;
+	-webkit-border-radius: 62px;
+	border-radius: 62px;
+	background:rgba(255,255,255,1);
+}
+
+
+#recibe_informaci_n {
+	top: 12px;
+	left: 100.5px;
+	width: 162.6px;
+	height: 26.6px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+#frame_52 {
+	top: 230px;
+	left: 101px;
+	width: 1240px;
+	height: 209px;
+}
+
+#_bg__frame_52_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1240px;
+	height: 209px;
+	background:#;
+}
+
+#frame_51 {
+	top: 0px;
+	left: 0px;
+	width: 248px;
+	height: 209px;
+}
+
+#_bg__frame_51_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 248px;
+	height: 209px;
+	background:#;
+}
+
+#frame_50 {
+	top: 0px;
+	left: 0px;
+	width: 248px;
+	height: 146px;
+}
+
+#_bg__frame_50_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 248px;
+	height: 146px;
+	background:#;
+}
+
+
+#gymlogo2_png_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 133px;
+	height: 55px;
+}
+
+
+#we_have_clothes_that_suits_your_style_and_which_you_re_proud_to_wear__from_women_to_men_ {
+	top: 80px;
+	left: 0px;
+	width: 261.4px;
+	height: 70.4px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 14px;
+	text-align: left;
+	line-height: 22px;
+	margin-top: -2.6666666666667px;
+	height: 84.4px;
+	color:#000000;
+}
+
+#social {
+	top: 181px;
+	left: 0px;
+	width: 148px;
+	height: 28px;
+}
+
+#_bg__social_ek1 {
+	top: -181px;
+	left: 0px;
+	width: 148px;
+	height: 28px;
+	background:#;
+}
+
+#_1 {
+	top: 0px;
+	left: 0px;
+	width: 28px;
+	height: 28px;
+}
+
+#_bg___1_ek1 {
+	top: -181px;
+	left: 0px;
+	width: 28px;
+	height: 28px;
+	background:#;
+}
+
+
+#bg {
+	top: -1px;
+	left: -1px;
+	width: 28px;
+	height: 28px;
+	-ms-border-radius: 14px / 14px;
+	-o-border-radius: 14px / 14px;
+	-moz-border-radius: 14px / 14px;
+	-webkit-border-radius: 14px / 14px;
+	border-radius: 14px / 14px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+#logo_twitter_2 {
+	top: 10px;
+	left: 9px;
+	width: 11.17px;
+	height: 9.03px;
+}
+
+#_bg__logo_twitter_2_ek1 {
+	top: -191px;
+	left: -9px;
+	width: 11.17px;
+	height: 9.03px;
+	background:#;
+}
+
+#group {
+	top: 0px;
+	left: 0px;
+	width: 11.17px;
+	height: 9.03px;
+}
+
+#_bg__group_ek1 {
+	top: -191px;
+	left: -9px;
+	width: 11.17px;
+	height: 9.03px;
+	background:#;
+}
+
+
+#vector_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 11.17px;
+	height: 9.03px;
+}
+
+#_2 {
+	top: 0px;
+	left: 40px;
+	width: 28px;
+	height: 28px;
+}
+
+#_bg___2_ek1 {
+	top: -181px;
+	left: -40px;
+	width: 28px;
+	height: 28px;
+	background:#;
+}
+
+
+#bg_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 28px;
+	height: 28px;
+	-ms-border-radius: 14px / 14px;
+	-o-border-radius: 14px / 14px;
+	-moz-border-radius: 14px / 14px;
+	-webkit-border-radius: 14px / 14px;
+	border-radius: 14px / 14px;
+	background:rgba(7,112,218,1);
+}
+
+#logo_fb_simple_2 {
+	top: 8px;
+	left: 11px;
+	width: 6.32px;
+	height: 12.17px;
+}
+
+#_bg__logo_fb_simple_2_ek1 {
+	top: -189px;
+	left: -51px;
+	width: 6.32px;
+	height: 12.17px;
+	background:#;
+}
+
+#group_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 6.32px;
+	height: 12.17px;
+}
+
+#_bg__group_ek3 {
+	top: -189px;
+	left: -51px;
+	width: 6.32px;
+	height: 12.17px;
+	background:#;
+}
+
+
+#vector_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 6.32px;
+	height: 12.17px;
+}
+
+#_3 {
+	top: 0px;
+	left: 80px;
+	width: 28px;
+	height: 28px;
+}
+
+#_bg___3_ek1 {
+	top: -181px;
+	left: -80px;
+	width: 28px;
+	height: 28px;
+	background:#;
+}
+
+
+#bg_ek2 {
+	top: -1px;
+	left: -1px;
+	width: 28px;
+	height: 28px;
+	-ms-border-radius: 14px / 14px;
+	-o-border-radius: 14px / 14px;
+	-moz-border-radius: 14px / 14px;
+	-webkit-border-radius: 14px / 14px;
+	border-radius: 14px / 14px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+#logo_instagram_1 {
+	top: 7px;
+	left: 7px;
+	width: 13.55px;
+	height: 13.55px;
+}
+
+#_bg__logo_instagram_1_ek1 {
+	top: -188px;
+	left: -87px;
+	width: 13.55px;
+	height: 13.55px;
+	background:#;
+}
+
+#group_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 13.55px;
+	height: 13.55px;
+}
+
+#_bg__group_ek5 {
+	top: -188px;
+	left: -87px;
+	width: 13.55px;
+	height: 13.55px;
+	background:#;
+}
+
+
+#vector_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 13.55px;
+	height: 13.55px;
+}
+
+
+#vector_ek13 {
+	top: 3px;
+	left: 3px;
+	width: 6.96px;
+	height: 6.96px;
+}
+
+
+#vector_ek14 {
+	top: 2px;
+	left: 10px;
+	width: 1.63px;
+	height: 1.63px;
+}
+
+#_4 {
+	top: 0px;
+	left: 120px;
+	width: 28px;
+	height: 28px;
+}
+
+#_bg___4_ek1 {
+	top: -181px;
+	left: -120px;
+	width: 28px;
+	height: 28px;
+	background:#;
+}
+
+
+#bg_ek3 {
+	top: -1px;
+	left: -1px;
+	width: 28px;
+	height: 28px;
+	-ms-border-radius: 14px / 14px;
+	-o-border-radius: 14px / 14px;
+	-moz-border-radius: 14px / 14px;
+	-webkit-border-radius: 14px / 14px;
+	border-radius: 14px / 14px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+#logo_github_1 {
+	top: 7px;
+	left: 8px;
+	width: 12.96px;
+	height: 12.65px;
+}
+
+#_bg__logo_github_1_ek1 {
+	top: -188px;
+	left: -128px;
+	width: 12.96px;
+	height: 12.65px;
+	background:#;
+}
+
+#group_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 12.96px;
+	height: 12.65px;
+}
+
+#_bg__group_ek7 {
+	top: -188px;
+	left: -128px;
+	width: 12.96px;
+	height: 12.65px;
+	background:#;
+}
+
+
+#vector_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 12.96px;
+	height: 12.65px;
+}
+
+#frame_47 {
+	top: 0px;
+	left: 361px;
+	width: 175px;
+	height: 177px;
+}
+
+#_bg__frame_47_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 175px;
+	height: 177px;
+	background:#;
+}
+
+
+#help_menu {
+	top: 0px;
+	left: 0px;
+	width: 119.6px;
+	height: 22.6px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 16px;
+	text-transform: uppercase;
+	text-align: left;
+	line-height: 18px;
+	letter-spacing: 3px;
+	color:#0770DA;
+}
+
+
+#about_features_works {
+	top: 36px;
+	left: 0px;
+	width: 189.6px;
+	height: 137.6px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 16px;
+	text-align: left;
+	line-height: 19px;
+	color:#000000;
+}
+
+#frame_52_ek2 {
+	top: 0px;
+	left: 649px;
+	width: 158px;
+	height: 177px;
+}
+
+#_bg__frame_52_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 158px;
+	height: 177px;
+	background:#;
+}
+
+
+#help_menu_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 123.6px;
+	height: 22.6px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 16px;
+	text-transform: uppercase;
+	text-align: left;
+	line-height: 18px;
+	letter-spacing: 3px;
+	color:#0770DA;
+}
+
+
+#about_features_works_ek1 {
+	top: 36px;
+	left: 0px;
+	width: 172.6px;
+	height: 137.6px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 16px;
+	text-align: left;
+	line-height: 19px;
+	color:#000000;
+}
+
+#frame_49 {
+	top: 0px;
+	left: 920px;
+	width: 115px;
+	height: 177px;
+}
+
+#_bg__frame_49_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 115px;
+	height: 177px;
+	background:#;
+}
+
+
+#help_menu_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 129.6px;
+	height: 22.6px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 16px;
+	text-transform: uppercase;
+	text-align: left;
+	line-height: 18px;
+	letter-spacing: 3px;
+	color:#0770DA;
+}
+
+
+#about_features_works_ek2 {
+	top: 36px;
+	left: 0px;
+	width: 77.6px;
+	height: 137.6px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 16px;
+	text-align: left;
+	line-height: 19px;
+	color:#000000;
+}
+
+#frame_53 {
+	top: 477px;
+	left: 1060px;
+	width: 281.07px;
+	height: 30.03px;
+}
+
+#_bg__frame_53_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 281.07px;
+	height: 30.03px;
+	background:#;
+}
+
+#badge {
+	top: 0px;
+	left: 0px;
+	width: 46.61px;
+	height: 30.03px;
+}
+
+#_bg__badge_ek1 {
+	top: -0.22px;
+	left: -0.22px;
+	width: 46.61px;
+	height: 30.03px;
+	-ms-border-radius: 5.38px;
+	-o-border-radius: 5.38px;
+	-moz-border-radius: 5.38px;
+	-webkit-border-radius: 5.38px;
+	border-radius: 5.38px;
+	border: 0.22px solid #d6dce5;
+	-ms-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	-o-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	-webkit-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	-moz-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	background:rgba(255,255,255,1);
+}
+
+
+#visa {
+	top: 9.94px;
+	left: 6.91px;
+	width: 32.54px;
+	height: 10.51px;
+}
+
+#badge_ek2 {
+	top: 0px;
+	left: 58.61px;
+	width: 46.61px;
+	height: 30.03px;
+}
+
+#_bg__badge_ek3 {
+	top: -0.22px;
+	left: -0.22px;
+	width: 46.61px;
+	height: 30.03px;
+	-ms-border-radius: 5.38px;
+	-o-border-radius: 5.38px;
+	-moz-border-radius: 5.38px;
+	-webkit-border-radius: 5.38px;
+	border-radius: 5.38px;
+	border: 0.22px solid #d6dce5;
+	-ms-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	-o-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	-webkit-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	-moz-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	background:rgba(255,255,255,1);
+}
+
+
+#mastercard {
+	top: 7.17px;
+	left: 10.53px;
+	width: 25.38px;
+	height: 15.69px;
+}
+
+#badge_ek4 {
+	top: 0px;
+	left: 117.23px;
+	width: 46.61px;
+	height: 30.03px;
+}
+
+#_bg__badge_ek5 {
+	top: -0.22px;
+	left: -0.22px;
+	width: 46.61px;
+	height: 30.03px;
+	-ms-border-radius: 5.38px;
+	-o-border-radius: 5.38px;
+	-moz-border-radius: 5.38px;
+	-webkit-border-radius: 5.38px;
+	border-radius: 5.38px;
+	border: 0.22px solid #d6dce5;
+	-ms-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	-o-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	-webkit-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	-moz-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	background:rgba(255,255,255,1);
+}
+
+
+#paypal {
+	top: 10.65px;
+	left: 6.05px;
+	width: 34.55px;
+	height: 9.21px;
+}
+
+#badge_ek6 {
+	top: 0px;
+	left: 175.84px;
+	width: 46.61px;
+	height: 30.03px;
+}
+
+#_bg__badge_ek7 {
+	top: -0.22px;
+	left: -0.22px;
+	width: 46.61px;
+	height: 30.03px;
+	-ms-border-radius: 5.38px;
+	-o-border-radius: 5.38px;
+	-moz-border-radius: 5.38px;
+	-webkit-border-radius: 5.38px;
+	border-radius: 5.38px;
+	border: 0.22px solid #d6dce5;
+	-ms-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	-o-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	-webkit-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	-moz-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	background:rgba(255,255,255,1);
+}
+
+
+#___pay {
+	top: 9.64px;
+	left: 10.08px;
+	width: 26.41px;
+	height: 11.21px;
+}
+
+#badge_ek8 {
+	top: 0px;
+	left: 234.46px;
+	width: 46.61px;
+	height: 30.03px;
+}
+
+#_bg__badge_ek9 {
+	top: -0.22px;
+	left: -0.22px;
+	width: 46.61px;
+	height: 30.03px;
+	-ms-border-radius: 5.38px;
+	-o-border-radius: 5.38px;
+	-moz-border-radius: 5.38px;
+	-webkit-border-radius: 5.38px;
+	border-radius: 5.38px;
+	border: 0.22px solid #d6dce5;
+	-ms-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	-o-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	-webkit-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	-moz-box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	box-shadow:0px 4.48px 9px 1px rgba(183,183,183,0.08);
+	background:rgba(255,255,255,1);
+}
+
+
+#g_pay {
+	top: 9.86px;
+	left: 8.96px;
+	width: 28.56px;
+	height: 11.21px;
+}
+
+
+#___2000_2021__all_rights_reserved {
+	top: 481px;
+	left: 99px;
+	width: 254.4px;
+	height: 23.4px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 14px;
+	text-align: right;
+	color:#000000;
+}
+
+
+#m_s_de_2_100_m2_a_tu_disposici_n_con_actividades_y_servicios_como_musculaci_n_guiada_y_libre__cardio_conectado__cycle_park__clases_colectivas_con_coach_o_virtuales__espacio_cross_training__espacio_burning_park_dedicado_a_actividades_de_alta_intensidad_o_hiit___rea_de_hidrataci_n_de_bebidas____as__como_un_espacio_destinado_al_boxeo__fight_park_con_ring_y_sacos___problemas_con_los_horarios__nuestro_gym_est__abierto_los_7_d_as_de_la_semana__horario_habitual_de_6_00_am_a_1_00_am___abiertos_365_d_as_del_a_o___no_tendr_s_excusas_ {
+	top: 1052px;
+	left: 75px;
+	width: 638.4px;
+	height: 485.4px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 24px;
+	text-align: left;
+	line-height: 34px;
+	letter-spacing: 2.76px;
+	color:#000000;
+}
+
+
+#screenshot_1_1 {
+	top: 1058px;
+	left: 773px;
+	width: 608px;
+	height: 469px;
+}
+
+
+#go_for_it_ek4 {
+	top: 814px;
+	left: 333px;
+	width: 610.8px;
+	height: 48.8px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 48px;
+	font-weight: bold;
+	line-height: 43.8px;
+	text-align: left;
+	line-height: 64px;
+	color:#08D46E;
+}
+
+
+
+/* Add your custom CSS here */
